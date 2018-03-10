@@ -1,4 +1,4 @@
-a="hello"
+a="hello!"
 n=int(input("enter no. of times:"))
 i=0
 while(i<n):
