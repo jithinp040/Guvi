@@ -1,6 +1,6 @@
 a=0
 b=[]
-print("Enter three numbers:")
+print("Enter the numbers:")
 for a in range(0,3):
   b.append(int(input()))
 if(b[0]>=b[1] and b[0]>=b[2]):
