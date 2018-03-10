@@ -8,4 +8,4 @@ sum=0
 while(i<b):
   sum=sum+a[i]
   i=i+1
-print("sum of natural numbers:")+str(sum)
+print("sum of integers:")+str(sum)
