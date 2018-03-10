@@ -1,6 +1,6 @@
 choice='y'
 while(choice=='y'):
-  a=int(input("Enter number to check whether odd or even:"))
+  a=int(input("check whether odd or even:"))
   if(a%2==0):
     print("number is even")
   else:
