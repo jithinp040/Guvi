@@ -1,4 +1,4 @@
-print("Enter something to check whether it is alphabet or not")
+print("check whether it is alphabet or not")
 a=str(raw_input("Enter string:"))
 if(a.isalpha()):
   print("It is an alphabet")
