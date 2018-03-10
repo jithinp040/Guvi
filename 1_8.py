@@ -1,5 +1,5 @@
-print("enter to find sum of natural numbers")
-n=int(input("enter no. of terms"))
+print("to find sum of natural numbers")
+n=int(input("enter no. terms"))
 sum=0
 i=0
 while(i<=n):
