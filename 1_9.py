@@ -1,4 +1,4 @@
-print("enter to find sum of integers")
+print("to find sum of integers")
 n=int(input("enter no. of terms"))
 i=0
 a=[int(input()) for i in range(0,n)]
