@@ -1,5 +1,5 @@
 print("to find sum of natural numbers")
-n=int(input("enter no. terms"))
+n=int(input("no. terms"))
 sum=0
 i=0
 while(i<=n):
