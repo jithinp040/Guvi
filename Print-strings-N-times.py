@@ -1,6 +1,6 @@
-string="hello!"
-no=int(input())
+GivenInput="Hello"
+Times=int(input())
 i=0
-while(i<no):
-  print(string)
-  i+=1
+while(i<Times):
+    print(GivenInput)
+    i+=1
